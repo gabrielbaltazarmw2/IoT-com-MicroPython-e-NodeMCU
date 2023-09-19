@@ -1,6 +1,6 @@
 # Repositório IoT com MicroPython e NodeMCU
 
-Este repositório é uma coleção de aplicações e exemplos práticos retirados do livro "IoT com MicroPython e NodeMCU" que utilizam a placa NodeMCU e o ambiente de desenvolvimento MicroPython para criar soluções de Internet das Coisas (IoT).
+Este repositório é uma coleção de aplicações e exemplos práticos que utilizam a placa NodeMCU e o ambiente de desenvolvimento MicroPython para criar soluções de Internet das Coisas (IoT).
 
 ## Ambiente de Desenvolvimento
 
